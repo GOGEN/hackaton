@@ -1,0 +1,16 @@
+---
+bootstrapVersion: 4
+
+styleLoaders:
+  - style-loader
+  - css-loader
+  - sass-loader
+
+styles:
+  variables: true
+  mixins: true
+  reboot: true
+  type: true
+  forms: true
+  buttons: true
+  grid: true
