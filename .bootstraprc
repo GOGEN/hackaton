@@ -10,7 +10,10 @@ styles:
   variables: true
   mixins: true
   reboot: true
+  utilities: true
   type: true
   forms: true
   buttons: true
   grid: true
+  nav: true
+  navbar: true
